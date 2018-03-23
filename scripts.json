@@ -1,0 +1,4 @@
+"scripts": {
+    "start": "sh ~/Desktop/discordbots/start.sh",
+    "stop": "pkill --signal SIGINT bot"
+  }
